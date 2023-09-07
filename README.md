@@ -22,4 +22,4 @@ Remember, this description is just a starting point. Feel free to personalize an
 Skills: Databases · Data Analytics · Google BigQuery · MySQL · Microsoft SQL Server
 
 
-![1688960062615](https://github.com/DebershiMitra/SCALER-DATASCIENCE/assets/144292625/50f77fa4-aa3d-499c-8690-38efff16e063)
+
